@@ -1,0 +1,13 @@
+C:\DevBuild\Week6\OddEvenPractice\bin\Debug\netcoreapp3.1\OddEvenPractice.exe
+C:\DevBuild\Week6\OddEvenPractice\bin\Debug\netcoreapp3.1\OddEvenPractice.deps.json
+C:\DevBuild\Week6\OddEvenPractice\bin\Debug\netcoreapp3.1\OddEvenPractice.runtimeconfig.json
+C:\DevBuild\Week6\OddEvenPractice\bin\Debug\netcoreapp3.1\OddEvenPractice.runtimeconfig.dev.json
+C:\DevBuild\Week6\OddEvenPractice\bin\Debug\netcoreapp3.1\OddEvenPractice.dll
+C:\DevBuild\Week6\OddEvenPractice\bin\Debug\netcoreapp3.1\OddEvenPractice.pdb
+C:\DevBuild\Week6\OddEvenPractice\obj\Debug\netcoreapp3.1\OddEvenPractice.csproj.AssemblyReference.cache
+C:\DevBuild\Week6\OddEvenPractice\obj\Debug\netcoreapp3.1\OddEvenPractice.AssemblyInfoInputs.cache
+C:\DevBuild\Week6\OddEvenPractice\obj\Debug\netcoreapp3.1\OddEvenPractice.AssemblyInfo.cs
+C:\DevBuild\Week6\OddEvenPractice\obj\Debug\netcoreapp3.1\OddEvenPractice.csproj.CoreCompileInputs.cache
+C:\DevBuild\Week6\OddEvenPractice\obj\Debug\netcoreapp3.1\OddEvenPractice.dll
+C:\DevBuild\Week6\OddEvenPractice\obj\Debug\netcoreapp3.1\OddEvenPractice.pdb
+C:\DevBuild\Week6\OddEvenPractice\obj\Debug\netcoreapp3.1\OddEvenPractice.genruntimeconfig.cache
